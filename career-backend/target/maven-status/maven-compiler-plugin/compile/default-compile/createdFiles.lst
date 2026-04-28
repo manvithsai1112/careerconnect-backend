@@ -1,0 +1,16 @@
+com\career\platform\entity\User.class
+com\career\platform\config\SecurityConfig.class
+com\career\platform\service\CareerResourceService.class
+com\career\platform\controller\AuthController.class
+com\career\platform\entity\Appointment$AppointmentBuilder.class
+com\career\platform\service\AppointmentService.class
+com\career\platform\PlatformApplication.class
+com\career\platform\repository\CareerResourceRepository.class
+com\career\platform\repository\UserRepository.class
+com\career\platform\entity\Appointment.class
+com\career\platform\controller\CareerResourceController.class
+com\career\platform\controller\AppointmentController.class
+com\career\platform\service\UserService.class
+com\career\platform\entity\CareerResource$CareerResourceBuilder.class
+com\career\platform\entity\CareerResource.class
+com\career\platform\repository\AppointmentRepository.class
